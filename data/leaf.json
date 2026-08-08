@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=EwVS92B010U",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [ 
+        {
+            "user": "se1s",
+            "link": "https://youtu.be/wkMeSsV_Cjc",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
